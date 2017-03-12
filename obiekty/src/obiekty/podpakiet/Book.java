@@ -24,6 +24,7 @@ public class Book extends Article{
 	}
 	public void setRok(int rok) {
 		this.rok = rok;
+		printChange();
 	}
 
 	public String toStringOld() {
