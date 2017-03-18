@@ -1,0 +1,4 @@
+0 [main] FATAL LoggerTest  - Porażka na całego
+2 [main] ERROR LoggerTest  - EEE
+3 [main] WARN  LoggerTest  - warning!
+3 [main] INFO  LoggerTest  - ssss

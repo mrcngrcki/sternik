@@ -1,11 +1,13 @@
-package zadanka1;
+package pl.sternik.kk;
 
 enum StanLepszy{
 	NOWE(), OCZEKUJACE(), REALIZOWANE("Pilne"), WYSLANE(), ZWROT("Kontakt!");
 	private String stan = "";
+	//konstruktor ze stringami
 	private StanLepszy(String stan){
 		this.stan = stan;
 	}
+	//konstruktor pusty
 	private StanLepszy(){}
 	public String getStan(){
 		if("".equals(stan))

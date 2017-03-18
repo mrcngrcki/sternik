@@ -1,4 +1,4 @@
-package zadanka1;
+package pl.sternik.kk;
 
 public class Zad07 {
 
