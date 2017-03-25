@@ -1,4 +1,4 @@
-package shop;
+package main.java.pl.sternik.kk.shop;
 
 
 public class Book extends Article{

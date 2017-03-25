@@ -1,4 +1,4 @@
-package shop;
+package main.java.pl.sternik.kk.shop;
 
 import java.util.Date;
 
